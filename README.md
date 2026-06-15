@@ -1,4 +1,4 @@
-# NexaRetail_Sales_Analysis
+# NEXTRETAIL SALES ANALYSIS
 
 In this project, I worked on consolidating and cleaning retail sales data from 16 monthly source files using Microsoft Excel and Power Query. The objective was to transform raw and inconsistent data into a clean, analysis-ready dataset while ensuring data quality and traceability.
 
